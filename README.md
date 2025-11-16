@@ -14,13 +14,12 @@ Primeira atividade proposta para aplicar os conhecimentos básicos de React Nati
 
 ### Tela 2: [Nome da Tela Original 2]
 
-`![Skoob]![./assets/telasClonadas/skoob.jpg)`
+![Skoob](https://github.com/user-attachments/assets/ddeac79e-a63f-41ea-9d7e-7518dc3631eb)
 
 ---
 
 ## Tecnologias Utilizadas
 
-* **React Native**
 * JavaScript / TypeScript
 * Expo
 * StyleSheet 
