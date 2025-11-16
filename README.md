@@ -6,13 +6,13 @@ Primeira atividade proposta para aplicar os conhecimentos básicos de React Nati
 
 ## Telas Escolhidas
 
-### Tela 1: Perfil do Spotify
+### Tela 1: Perfil - Spotify
 
 ![Spotify](https://github.com/user-attachments/assets/5b883b19-fe7d-4f7d-b4b4-2db807e27f73)
 
 <br>
 
-### Tela 2: [Nome da Tela Original 2]
+### Tela 2: Sing In - Skoob
 
 ![Skoob](https://github.com/user-attachments/assets/ddeac79e-a63f-41ea-9d7e-7518dc3631eb)
 
