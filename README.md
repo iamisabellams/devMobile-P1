@@ -8,7 +8,7 @@ Primeira atividade proposta para aplicar os conhecimentos básicos de React Nati
 
 ### Tela 1: Perfil do Spotify
 
-`![Spotify](./assets/telasClonadas/spotify.jpg)`)*
+![Spotify](https://github.com/user-attachments/assets/5b883b19-fe7d-4f7d-b4b4-2db807e27f73)
 
 <br>
 
