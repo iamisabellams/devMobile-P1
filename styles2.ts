@@ -68,13 +68,12 @@ export const styles = StyleSheet.create({
     height: 40,
     borderRadius: 8,
     overflow: "hidden",
-    backgroundColor: "transparent",
   },
 
   skeeloIconImage: {
     width: "100%",
     height: "100%",
-    resizeMode: "contain", 
+    resizeMode: "contain",
   },
 
   skeeloText: {

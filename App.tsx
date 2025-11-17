@@ -12,9 +12,7 @@ const LoginScreen = () => {
         <Text style={styles.backIcon}>‹</Text>
       </TouchableOpacity>
 
-      <Image 
-      source={logo} 
-      style={styles.logo} />
+      <Image source={logo} style={styles.logo} />
 
       <Text style={styles.title}>Bom te ver novamente!</Text>
       <Text style={styles.subtitle}>
@@ -28,15 +26,12 @@ const LoginScreen = () => {
       />
 
       <TouchableOpacity style={styles.skeeloCard}>
-
         <View style={styles.skeeloIconCrop}>
-          <Image 
-          source={skeelo} 
-          style={styles.skeeloIconImage} />
+          <Image source={skeelo} style={styles.skeeloIconImage} />
         </View>
 
         <Text style={styles.skeeloText}>
-          Se você tiver uma conta no <Text style={styles.link}>Skeelo</Text>, use-a para entrar no Skoob.
+          Se você tiver uma conta no Skeelo, use-a para entrar no Skoob.
         </Text>
 
         <Text style={styles.arrowIcon}>›</Text>
@@ -45,7 +40,6 @@ const LoginScreen = () => {
       <TouchableOpacity style={styles.nextButton}>
         <Text style={styles.nextButtonText}>Avançar</Text>
       </TouchableOpacity>
-
     </View>
   );
 };
